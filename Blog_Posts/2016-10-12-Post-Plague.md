@@ -13,7 +13,7 @@ Seeing an outbreak within the borders of Egypt, with so few deaths was incredibl
 With modern populations shifted to cities in modern day, an unidentifiable plague in one of these areas would prove to be even more catastrophic than ever before.
 
 ![](https://en.wikipedia.org/wiki/Black_Death#/media/File:Blackdeath2.gif)
-[logo]: https://github.com/dig-eg-gaz/Blog_Posts/BlackPlague.gif)
+![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
 
 <h2>For further study:</h2>
 Yersinia Pestis. [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2951374/)
