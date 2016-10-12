@@ -12,10 +12,11 @@ Seeing an outbreak within the borders of Egypt, with so few deaths was incredibl
 
 With modern populations shifted to cities in modern day, an unidentifiable plague in one of these areas would prove to be even more catastrophic than ever before.
 
-![](https://en.wikipedia.org/wiki/Black_Death#/media/File:Blackdeath2.gif)
-![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
+![](http://www.vox.com/2016/4/17/11435620/black-death-europe-gif)
 
 <h2>For further study:</h2>
 Yersinia Pestis. [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2951374/)
+
 A Draft genome of Yersinia pestis from victims of the Black Death. [Link](www.nature.com/nature/journal/v478/n7370/full/nature10549.html)
+
 Plague in 18th Century Egypt.[Link](https://contagions.wordpress.com/2010/05/26/plague-in-18th-century-egypt/)
